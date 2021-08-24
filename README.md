@@ -1,2 +1,7 @@
 # hello-Earth
-Siuli here... 
+#include<stdio.h>
+int main()
+{
+printf("hello world");
+}
+return 0;
